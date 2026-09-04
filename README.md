@@ -53,4 +53,4 @@ The project is currently in its **architectural foundational phase**. We are act
 
 Whether you are a seasoned software engineer, a low-level systems enthusiast, or a visionary who believes the very foundation of computing can still be reinvented, you are welcome aboard. 
 
-*"The people who are crazy enough to think they can change the world are the ones who do."*
+*"The people who are crazy enough to think they can change the world are the ones who do."* - Steve Jobs
