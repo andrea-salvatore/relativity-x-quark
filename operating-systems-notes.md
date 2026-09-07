@@ -338,4 +338,4 @@ This separation is what allows the **Protection Manager** (see [Section 3.1](#31
 
 ---
 
-*Compiled from personal lecture notes.*
+
