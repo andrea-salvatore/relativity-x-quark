@@ -1,3 +1,11 @@
+/*
+ * Relativity OS & Quark Microkernel
+ * Copyright (c) 2026 Andrea Salvatore
+ * Web: https://andreasalvatore.dev
+ * GitHub: https://github.com/andrea-salvatore
+ * Distribuito sotto licenza MIT.
+ */
+
 # 🌌 Relativity OS & Quark Microkernel
 
 > *Relativity OS melds the unrestrained freedom of Linux, the universal compatibility of Windows, and the impenetrable security of macOS. It stands as computing's "Theory of Everything": a testament that the infinitesimally small and secure can seamlessly interoperate with the infinitely vast and adaptable.*
